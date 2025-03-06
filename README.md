@@ -18,7 +18,7 @@ ChatApp is a real-time chat application built using React Native. It allows user
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/chatapp.git
+   git clone https://github.com/raj918/chat-app.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -35,21 +35,13 @@ ChatApp is a real-time chat application built using React Native. It allows user
    ```
 
 ## APK Installation
-- Download the latest APK from [Releases](#).
+
+- Download the  APK from https://drive.google.com/file/d/1e7Rxhv2qs4OS5uXSuRw4-L5881QWCjz-/view?ts=67c97973
+
 - Install it on your Android device.
 
 ## Usage
 - Open the app and enter a username.
 - Select a chat room or create a new one.
 - Start chatting in real time!
-
-## Contribution
-If you want to contribute:
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes and commit them.
-4. Push to your fork and submit a pull request.
-
-## License
-This project is licensed under the MIT License.
-
+/
